@@ -1,5 +1,5 @@
 
-## 🚀 **Hola, soy [Tu Nombre]**
+## 🚀 **Hola, aquí Sergio!**
 
 Senior Software Engineer especializado en construir aplicaciones escalables y sistemas de alto rendimiento. Con más de **X años** de experiencia en el desarrollo full-stack, me apasiona transformar ideas complejas en soluciones elegantes y eficientes.
 
